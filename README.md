@@ -4,7 +4,7 @@
 
 The book was taught at Stanford University in summer of 2016 by the authors. The MOOC can be found [here](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about).
 
-This repo contains my *attempted* solutions to exercises from the book. Code is in **Python.** A series of posts on my [blog](https://alisiina.github.io) summarize concepts from the book.
+This repo contains my *attempted* solutions to exercises from the book. Code is in **Python.** A [series](https://alisiina.github.io/2019/01/28/statistical-learning-series.html) of posts on my [blog](https://alisiina.github.io) summarize concepts from the book.
 
 
 #### Other resources

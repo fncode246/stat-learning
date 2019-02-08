@@ -12,3 +12,4 @@ A $p$-value is a probability that provides a measure of the evidence against the
 **Reject rule:** Reject $H_0$ if $p$-value $\leq a,$
 
 where $a$ is the level of significance.
+
