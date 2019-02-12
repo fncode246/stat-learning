@@ -17,3 +17,26 @@ Provided on the [website](https://www-bcf.usc.edu/~gareth/ISL/data.html) and on 
 
 #### Figures
 Figures in the posts are created by myself, the code for which can be found as [Gists](https://gist.github.com/alisiina). All figures are free of any copyrights.
+
+* * *
+
+### Chapter 2
+| Preview | Edit |
+|:-------:|:----:|
+| [![jupyter](https://img.shields.io/badge/launch-nbviewer-orange.svg?logo=jupyter)](https://nbviewer.jupyter.org/github/alisiina/stat-learning/blob/master/ch2_applied.ipynb) |[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/alisiina/stat-learning/master?filepath=ch2_applied.ipynb)|
+
+Simple visual analyses.
+
+### Chapter 3
+| Preview | Edit |
+|:-------:|:----:|
+| [![jupyter](https://img.shields.io/badge/launch-nbviewer-orange.svg?logo=jupyter)](https://nbviewer.jupyter.org/github/alisiina/stat-learning/blob/master/ch3_applied.ipynb) |[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/alisiina/stat-learning/master?filepath=ch3_applied.ipynb)|
+
+Linear regression. Ample use of [Statsmodels](https://www.statsmodels.org/stable/index.html).
+
+### Chapter 4
+| Preview | Edit |
+|:-------:|:----:|
+| [![jupyter](https://img.shields.io/badge/launch-nbviewer-orange.svg?logo=jupyter)](https://nbviewer.jupyter.org/github/alisiina/stat-learning/blob/master/ch4_applied.ipynb) |[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/alisiina/stat-learning/master?filepath=ch4_applied.ipynb)|
+
+Classification with logistic regression, discriminant analysis, and KNN. 

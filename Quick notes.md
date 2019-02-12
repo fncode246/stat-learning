@@ -13,3 +13,6 @@ A $p$-value is a probability that provides a measure of the evidence against the
 
 where $a$ is the level of significance.
 
+### Confusion Matrix
+![cm](images/confusion_matrix.png)  
+![cm_metrics](images/cm_metrics.png)
