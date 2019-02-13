@@ -19,7 +19,7 @@ Provided on the [website](https://www-bcf.usc.edu/~gareth/ISL/data.html) and on 
 Figures in the posts are created by myself, the code for which can be found as [Gists](https://gist.github.com/alisiina). All figures are free of any copyrights.
 
 * * *
-## Notebooks of applied exercises
+## Notebooks of `Applied` exercises
 ### Chapter 2
 [![jupyter](https://img.shields.io/badge/launch-nbviewer-orange.svg?logo=jupyter)](https://nbviewer.jupyter.org/github/alisiina/stat-learning/blob/master/ch2_applied.ipynb)
 
@@ -28,7 +28,7 @@ Simple visual analyses.
 ### Chapter 3
 [![jupyter](https://img.shields.io/badge/launch-nbviewer-orange.svg?logo=jupyter)](https://nbviewer.jupyter.org/github/alisiina/stat-learning/blob/master/ch3_applied.ipynb)
 
-Linear regression. Ample use of [Statsmodels](https://www.statsmodels.org/stable/index.html).
+Linear regression. Ample use of [Statsmodels](https://www.statsmodels.org/stable/index.html) package.
 
 ### Chapter 4
 [![jupyter](https://img.shields.io/badge/launch-nbviewer-orange.svg?logo=jupyter)](https://nbviewer.jupyter.org/github/alisiina/stat-learning/blob/master/ch4_applied.ipynb)
