@@ -34,3 +34,8 @@ Linear regression. Ample use of [Statsmodels](https://www.statsmodels.org/stable
 [![jupyter](https://img.shields.io/badge/launch-nbviewer-orange.svg?logo=jupyter)](https://nbviewer.jupyter.org/github/alisiina/stat-learning/blob/master/ch4_applied.ipynb)
 
 Classification with logistic regression, discriminant analysis, and KNN.
+
+### Chapter 5
+[![jupyter](https://img.shields.io/badge/launch-nbviewer-orange.svg?logo=jupyter)](https://nbviewer.jupyter.org/github/alisiina/stat-learning/blob/master/ch5_applied.ipynb)
+
+Leave-One-Out (LOO), K-fold cross validation, and bootstrap.
