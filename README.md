@@ -10,6 +10,7 @@ This repo contains my *attempted* solutions to exercises from the book. Code is 
 #### Other resources
 * [Solutions in R](https://blog.princehonest.com/stat-learning/)
 * [Book examples in Python](https://github.com/qx0731/ISL_python)
+* [Selected figures in Python](https://github.com/JWarmenhoven/ISLR-python)
 
 #### Datasets
 Provided on the [website](https://www-bcf.usc.edu/~gareth/ISL/data.html) and on [CRAN](https://cran.r-project.org/web/packages/ISLR/index.html) as an R package under [GNU General Public License V2](https://cran.r-project.org/web/licenses/GPL-2).
