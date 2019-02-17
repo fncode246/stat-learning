@@ -9,7 +9,8 @@ This repo contains my *attempted* solutions to exercises from the book. Code is 
 
 #### Other resources
 * [Solutions in R](https://blog.princehonest.com/stat-learning/)
-* [Book examples in Python](https://github.com/qx0731/ISL_python)
+* [Solutions in Python](https://botlnec.github.io/islp/)
+* [`Labs` in R and Python](https://www.science.smith.edu/~jcrouser/SDS293/labs/), Smith College
 * [Selected figures in Python](https://github.com/JWarmenhoven/ISLR-python)
 
 #### Datasets
@@ -40,3 +41,8 @@ Classification with logistic regression, discriminant analysis, and KNN.
 [![jupyter](https://img.shields.io/badge/launch-nbviewer-orange.svg?logo=jupyter)](https://nbviewer.jupyter.org/github/alisiina/stat-learning/blob/master/ch5_applied.ipynb)
 
 Leave-One-Out (LOO), K-fold cross validation, and bootstrap.
+
+### Chapter 6
+[![jupyter](https://img.shields.io/badge/launch-nbviewer-orange.svg?logo=jupyter)](https://nbviewer.jupyter.org/github/alisiina/stat-learning/blob/master/ch6_applied.ipynb)
+
+Best subset selection: Best subset, forward stepwise, and backward stepwise. Regularization and shrinkage: Lasso, Ridge, PCR, and PLS (with CV here and there).
