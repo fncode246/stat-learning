@@ -20,7 +20,7 @@ Provided on the [website](https://www-bcf.usc.edu/~gareth/ISL/data.html) and on 
 #### Figures
 Figures in the posts are created by myself, the code for which can be found as [Gists](https://gist.github.com/alisiina). All figures are free of any copyrights.
 
-* * *
+
 ## Notebooks of `Applied` exercises
 ### Chapter 2
 [![jupyter](https://img.shields.io/badge/launch-nbviewer-orange.svg?logo=jupyter)](https://nbviewer.jupyter.org/github/alisiina/stat-learning/blob/master/ch2_applied.ipynb)
@@ -46,3 +46,8 @@ Leave-One-Out (LOO), K-fold cross validation, and bootstrap.
 [![jupyter](https://img.shields.io/badge/launch-nbviewer-orange.svg?logo=jupyter)](https://nbviewer.jupyter.org/github/alisiina/stat-learning/blob/master/ch6_applied.ipynb)
 
 Best subset selection: Best subset, forward stepwise, and backward stepwise. Regularization and shrinkage: Lasso, Ridge, PCR, and PLS (with CV here and there).
+
+### Chapter 7
+[![jupyter](https://img.shields.io/badge/launch-nbviewer-orange.svg?logo=jupyter)](https://nbviewer.jupyter.org/github/alisiina/stat-learning/blob/master/ch7_applied.ipynb)
+
+Mainly nonlinear algorithms like polynomial regression, ANOVA hypothesis testing, step functions, splines, and GAMS. *This chapter has quite a few questions skipped.*
