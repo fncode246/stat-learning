@@ -11,7 +11,6 @@ This repo contains my *attempted* solutions to exercises from the book. Code is 
 * [Solutions in R](https://blog.princehonest.com/stat-learning/)
 * [Solutions in Python](https://botlnec.github.io/islp/)
 * [`Labs` in R and Python](https://www.science.smith.edu/~jcrouser/SDS293/labs/), Smith College
-* [Selected figures in Python](https://github.com/JWarmenhoven/ISLR-python)
 
 #### Datasets
 Provided on the [website](https://www-bcf.usc.edu/~gareth/ISL/data.html) and on [CRAN](https://cran.r-project.org/web/packages/ISLR/index.html) as an R package under [GNU General Public License V2](https://cran.r-project.org/web/licenses/GPL-2).
@@ -51,3 +50,14 @@ Best subset selection: Best subset, forward stepwise, and backward stepwise. Reg
 [![jupyter](https://img.shields.io/badge/launch-nbviewer-orange.svg?logo=jupyter)](https://nbviewer.jupyter.org/github/alisiina/stat-learning/blob/master/ch7_applied.ipynb)
 
 Mainly nonlinear algorithms like polynomial regression, ANOVA hypothesis testing, step functions, splines, and GAMS. *This chapter has quite a few questions skipped.*
+
+### Chapter 8
+[![jupyter](https://img.shields.io/badge/launch-nbviewer-orange.svg?logo=jupyter)](https://nbviewer.jupyter.org/github/alisiina/stat-learning/blob/master/ch8_applied.ipynb)
+
+Random forests, decisions trees, bagging, and boosting.
+
+
+### Chapter 9
+[![jupyter](https://img.shields.io/badge/launch-nbviewer-orange.svg?logo=jupyter)](https://nbviewer.jupyter.org/github/alisiina/stat-learning/blob/master/ch9_applied.ipynb)
+
+Support Vector Machines (SVM).
