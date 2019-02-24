@@ -61,3 +61,8 @@ Random forests, decisions trees, bagging, and boosting.
 [![jupyter](https://img.shields.io/badge/launch-nbviewer-orange.svg?logo=jupyter)](https://nbviewer.jupyter.org/github/alisiina/stat-learning/blob/master/ch9_applied.ipynb)
 
 Support Vector Machines (SVM).
+
+### Chapter 10
+[![jupyter](https://img.shields.io/badge/launch-nbviewer-orange.svg?logo=jupyter)](https://nbviewer.jupyter.org/github/alisiina/stat-learning/blob/master/ch10_applied.ipynb)
+
+Only hierarchical clustering. Skipped PCA, K-Means exercises.
