@@ -72,3 +72,44 @@ X = college.drop('Apps', axis=1)
 auto['mpg'].map(lambda x: 1 if x > median_mpg else 0) 
 auto['mpg01'] = np.where(auto['mpg'] > median_mpg, 1, 0)
 ```
+
+### Types of linkage in heirarchical clustering
+
+![hc](images/hc.png)
+
+
+### Proportion of Variance Explained (PVE)
+> Page 383, Equation 10.8
+
+In **PCA**, the PVE for the $m$th principal component is give by
+
+$$\dfrac{\sum_{i=1}^n \left( \sum_{j=1}^p \phi_{jm}x_{ij} \right)^2}{\sum_{j=1}^p \sum_{i=1}^n x_{ij}^2}$$
+
+where $\phi_{jm}$ are the *loadings* of the principal components. The PVE measures how much of the variance in the data is *not* contained in the first few principal components.
+
+#### **Implementation in code:**
+The `pca` is a fitted instance of Sklearn's `PCA()`.
+```
+for k in range(0,np.shape(pca.components_)[1]):
+    # Numerator
+    accum = 0
+    num = 0
+    for i in range(0, np.shape(df_scl)[0]):
+        for j in range(0, np.shape(df_scl)[1]):
+            accum += pca.components_[k][j] * df_scl[i][j]
+        num += accum**2
+        accum = 0
+
+    # Denominator
+    accum = 0
+    den = 0
+    for j in range(0, np.shape(df_scl)[1]):
+        for i in range(0, np.shape(df_scl)[0]):
+            accum += df_scl[i][j]**2
+        den += accum
+        accum = 0
+
+    # Result
+    print('principal component number:', k+1)
+    print(num/den)
+```
