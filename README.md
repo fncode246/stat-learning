@@ -12,6 +12,8 @@ This repo contains my *attempted* solutions to exercises from the book. Code is 
 * [Solutions in Python](https://botlnec.github.io/islp/)
 * [`Labs` in R and Python](https://www.science.smith.edu/~jcrouser/SDS293/labs/), Smith College
 
+> The exercises in this book rely heavily on tests of *statistical significance.* Read the article ["Scientists rise up against statistical significance"](https://www.nature.com/articles/d41586-019-00857-9) on why this is a problematic approach. 
+
 #### Datasets
 Provided on the [website](https://www-bcf.usc.edu/~gareth/ISL/data.html) and on [CRAN](https://cran.r-project.org/web/packages/ISLR/index.html) as an R package under [GNU General Public License V2](https://cran.r-project.org/web/licenses/GPL-2).
 
